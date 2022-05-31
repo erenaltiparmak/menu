@@ -1,0 +1,122 @@
+/* GENERAL */
+body{
+  margin: 0;
+  padding: 0;
+}
+.center{
+  text-align: center;
+}
+.right{
+  text-align: right;
+}
+.left{
+  text-align: left;
+}
+.handwriting{
+  font-weight: 400;
+  font-family: 'Caveat';
+}
+.sans-light{
+  font-weight: 300;
+  font-family: 'Jost';
+}
+.sans-regular{
+  font-family: 'Jost';
+  font-weight: 300;
+}
+.sans-bold{
+  font-weight: 400;
+  font-family: 'Jost';
+}
+.blur{
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+}
+.white{
+  color: white;
+}
+.black{
+  color: black;
+}
+.fore-red{
+  color: #de3135;
+}
+.yellow{
+  color: #ffc107;
+}
+.back-black{
+  background-color: black;
+}
+.seperator{
+  border-style: solid;
+  border-color: white;
+  opacity: 100;
+  border-width: 5px 0 0 0;
+  background-color: black;
+  width: 5%;
+  margin: auto;
+}
+.copyright{
+  font-size: 1.5rem;
+}
+.padding-ver4{
+  padding: 4% 0;
+}
+.padding-ver2{
+  padding: 2% 0;
+}
+.padding-bot3{
+  padding: 0 0 3% 0;
+}
+/* SPECIAL */
+.title{
+  padding-bottom: 2%;
+  font-size: 13rem;
+}
+.button-menu{
+  width: 60%;
+  border-radius: 0;
+  font-size: 4.5rem;
+  border-width: 2px;
+}
+.button-gallery{
+  width: 30%;
+  border-radius: 0;
+  font-size: 2.5rem;
+}
+.subtitle{
+  font-size: 3.5rem;
+}
+.social-icon{
+  width: 25%;
+}
+.info-icon{
+  width: 40%
+}
+.info-title{
+  font-size: 4rem;
+}
+.info-text{
+  font-size: 2rem;
+}
+.info-box{
+  padding: 4% 0;
+}
+.button-direct{
+  width: 40%;
+  border-radius: 0;
+  font-size: 2rem;
+}
+.photo-aboutus{
+  width: 80%;
+  border-radius: 10%;
+}
+.title-aboutus{
+  font-size: 5rem;
+}
+.text-aboutus{
+  font-size: 2.5rem;
+}
+.menu-page{
+  width: 100%;
+}
